@@ -1,0 +1,65 @@
+body{
+    width: 1200px;
+    margin: 0 auto;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+}
+.a button{
+    width: 60px;
+    height: 30px;
+    margin-top: 15px;
+    background: rgb(134, 133, 133);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.a h1{
+    margin: 30px 0 1px 0;
+
+}
+table{
+    height: 150px;
+    border: 1px solid gray;
+    border-collapse: collapse;
+   margin-bottom: 30px;
+
+}
+table td, th{
+    border: 1px solid gray;
+}
+.b button{
+    color: white;
+    background: rgb(32, 32, 211);
+    border-radius: 3px;
+    border: none;
+    height: 30px;
+    width: 200px;
+    margin: 15px 0 0 1000px;
+}
+input{
+    width: 220px;
+    height: 30px;
+    padding: 2px;
+    margin: 0 15px 20px 0;
+}
+.d button{
+    color: white;
+    background: rgb(168, 44, 44);
+    border: none;
+    height: 30px;
+    width: 210px;
+    border-radius: 3px;
+}
+.c h1{
+    margin-top: -40px;
+}
+.e button{
+    width: 1200px;
+    height: 40px;
+    color: white;
+    background: rgb(26, 150, 26);
+    border: none;
+    border-radius: 3px;
+}
